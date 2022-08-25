@@ -1,6 +1,6 @@
-In this project, let's build a **Boxes** page by applying the concepts we have learned till now.
+# Boxes
 
-### Refer to the image below:
+
 
 <br/>
 <div style="text-align: center;">
@@ -18,17 +18,7 @@ In this project, let's build a **Boxes** page by applying the concepts we have l
 
 </details>
 
-### Completion Instructions
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `index.js`
-- `index.css`
-</details>
 
 ### Resources
 
@@ -52,8 +42,3 @@ Use these files to complete the implementation:
 - Bree Serif
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
